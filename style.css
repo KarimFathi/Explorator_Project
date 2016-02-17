@@ -1,0 +1,31 @@
+div.contenu {
+	float:left;
+	text-align:center;
+	color:black;
+	border-style:none;
+	width:135px;
+	height:80px;
+	margin:5px;
+	margin-top:5px
+}
+
+div.liste {
+	color:black;
+	border-style:none;
+	margin:1px;
+}
+
+
+div.vide {
+	float:left;
+	border-style:none;
+	height:10px;
+}
+
+#fichier{
+		borber:5px;
+		position: relative;
+		float: left;
+		margin-left: 9px;
+		text-align:center;
+		}
